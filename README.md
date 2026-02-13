@@ -21,7 +21,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="[https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge](https://avatars.githubusercontent.com/u/187023481?s=400&u=1d55503678c6943e4a6bac08043d5aef1ead0ef9&v=4)" height="35" alt="discord logo"  />
 </div>
 
 ###
